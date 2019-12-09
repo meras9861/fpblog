@@ -6,4 +6,4 @@ I learned how to properly blog my information gathgered. (What are you learning 
 
 I used github and my ide. (What sources did you use to learn that? Some days this will just be class instruction.)
 
-A skill that I used was time mangement. How are you developing in ways that apply outside of your project? See hstatsep.github.io/students/#skills
+A skill that I used was time mangement. I am also getting better on adding files and info. How are you developing in ways that apply outside of your project? See hstatsep.github.io/students/#skills
